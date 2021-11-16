@@ -1,7 +1,7 @@
 CREATED BY FAYAS AND AJMAL
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="20211116_213149.gif" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Jaanu_v3" src="https://img.shields.io/badge/Jaanu_v3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
